@@ -1,2 +1,2 @@
 # script
-Script related to open data publishing
+Scripts related to open data publishing
